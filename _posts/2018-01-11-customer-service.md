@@ -4,7 +4,7 @@ title:  "Mountain"
 author: Gsik
 categories: [ Drone photo, scenery ]
 tags: [mountain, summer]
-image: assets/images/mountain2.jpg
+image: assets/image/mountain2.jpg
 description: "The photo is taken in Korea!"
 featured: true
 hidden: true
