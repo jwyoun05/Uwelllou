@@ -10,7 +10,7 @@ comments: true
 
 <p> Hello, everyone. This blog was created to share my drone pictures with you. Please look at my pictures and evaluate them. I hope many of you visit!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/jungja.jpg" alt="mountain_Uwelllou" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/octagonal pavilion.jpg" alt="octagonal pavilion_Uwelllou" /></p>
 <h4>Gsik's Email address</h4>
 
 > jwyoun0501@gmail.com
@@ -29,7 +29,7 @@ comments: true
 
 <p>Thank you for visit my blog! Here is my SNS links.</p>
 
-<a target="_blank" href="https://www.instagram.com/uwelllou/" class="btn btn-danger">instagram</a> <a target="_blank" href="https://www.youtube.com/channel/UCjBVH6oyMF7lJ8OnlDt5a8A" class="btn btn-warning">Youtube</a>
+<a target="_blank" href="https://www.instagram.com/uwelllou/" class="btn btn-warning">instagram</a> <a target="_blank" href="https://www.youtube.com/channel/UCjBVH6oyMF7lJ8OnlDt5a8A" class="btn btn-danger">Youtube</a>
 
 </div>
 </div>
