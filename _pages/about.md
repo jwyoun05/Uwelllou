@@ -10,7 +10,7 @@ comments: true
 
 <p> Hello, everyone. This blog was created to share my drone pictures with you. Please look at my pictures and evaluate them. I hope many of you visit!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/octagonal pavilion.jpg" alt="octagonal pavilion_Uwelllou" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}About.jpg" alt="octagonal pavilion_Uwelllou" /></p>
 <h4>Gsik's Email address</h4>
 
 > jwyoun0501@gmail.com
