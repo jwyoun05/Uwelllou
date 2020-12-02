@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "octagonal pavilion"
+title:  "octagonal pavilion1"
 author: Uwelllou
 categories: [ Drone photo, scenery, structure ]
 tags: [mountain, summer, pavilion]
