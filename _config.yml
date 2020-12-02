@@ -54,7 +54,6 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 
-disqus_shortname: 'uwelllou'
 
 
 kramdown:
