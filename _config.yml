@@ -53,10 +53,9 @@ paginate_path: /page:num/
     
 # Other
 markdown: kramdown
-hyvor_talk_website_id: 476
 
-#comments
-disqus_shortname: uwelllou
+disqus_shortname: 'uwelllou'
+
 
 kramdown:
   input: GFM
