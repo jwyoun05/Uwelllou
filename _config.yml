@@ -2,8 +2,8 @@
 name: "Uwelllou"
 title: "Uwelllou"
 description: "Wellcome to my blog!"
-logo: 'assets/images/logos.png'
-favicon: 'assets/images/logos.png'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: /Uwelllou
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -16,20 +16,19 @@ authors:
   Gsik:
     name: Ji won
     display_name: Gsik
+    avatar: 'assets/image/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: jwyoun0501@gmail.com
-    # web: https://www.wowthemes.net
-    # twitter: https://twitter.com/wowthemesnet
-    description: "Hello i'm Auth of this blog! thanks for visiting~~"
-  john:
-    name: John
-    display_name: John    
+     Instargram: https://www.instagram.com/uwelllou/
+    description: "Hello i'm Auth of this blog! here is Uwelllou's Instargram link!"
+  Uwelllou:
+    name: Ju hyeok
+    display_name: Uwelllou    
     avatar: 'assets/image/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: pjhk0725@naver.com
+    Instargram: https://www.instagram.com/uwelllou/
+    description: ""
 
 # comments
 ---
