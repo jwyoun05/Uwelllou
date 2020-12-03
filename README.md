@@ -21,3 +21,6 @@ Copyright (C) 2019 Sal, https://www.wowthemes.net
 4. Make necessary changes, commit, push and open a pull request on GitHub.
 
 Thank you!
+
+#### Views
+! [HitCount] (http://hits.dwyl.com/Gsik/Uwelllou.svg)] (http://hits.dwyl.com/Gsik/Uwelllou)
