@@ -4,7 +4,7 @@ title: "Uwelllou"
 description: "Wellcome to my blog!"
 logo: 'U.png'
 favicon: 'U.png'
-baseurl: 
+baseurl: /Uwelllou
 google_analytics: 'G-1FJ57TRTLJ'
 disqus: 'demowebsite'
 mailchimp-list: ''
@@ -81,7 +81,7 @@ lazyimages: "disabled"
 analytics:
   provider               : "google-gtag" # Google Analytics Registration false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-6XZ5P6FVKY"
+    tracking_id          : "G-1FJ57TRTLJ"
     anonymize_ip         : # true, false (default)
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

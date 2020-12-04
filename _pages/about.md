@@ -14,8 +14,6 @@ comments: true
 
 
 <h4>Uwelllou's Email address</h4>
-Uwelllou의 메일 주소
-
 > Uwelllou256@naver.com
 
 </div>
