@@ -78,12 +78,7 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-# Analytics
-analytics:
-  provider               : "google-gtag" # Google Analytics Registration false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-1FJ57TRTLJ"
-    anonymize_ip         : # true, false (default)
+google_analytics_id: G-1FJ57TRTLJ
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 encoding: 'UTF-8'
