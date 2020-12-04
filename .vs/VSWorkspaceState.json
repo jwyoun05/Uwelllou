@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\assets",
-    "\\site",
+    "\\assets\\css",
+    "\\assets\\fonts",
+    "\\_includes",
     "\\_layouts",
     "\\_pages",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\assets\\css",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
