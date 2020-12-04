@@ -4,7 +4,7 @@ title: "Uwelllou"
 description: "Wellcome to my blog!"
 logo: 'U.png'
 favicon: 'U.png'
-baseurl: /Uwelllou
+baseurl: 
 google_analytics: 'G-1FJ57TRTLJ'
 disqus: 'demowebsite'
 mailchimp-list: ''
