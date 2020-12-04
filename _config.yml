@@ -23,18 +23,11 @@ authors:
     description: "Hello i'm Auth of this blog! here is Uwelllou's Instargram link!"
   Uwelllou:
     name: Ju hyeok
-    display_name: ¡÷«ı   
+    display_name: Uwelllou  
     avatar: 'assets/image/avatar.png'
+    web: https://www.instagram.com/uwelllou/
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: pjhk0725@naver.com
-    Instargram: https://www.instagram.com/uwelllou/
-    description: ""
-  Uwelllou:
-    name: Ju hyeok
-    display_name: Uwelllou   
-    avatar: 'assets/image/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: pjhk0725@naver.com
+    email: Uwelllou256@naver.com
     Instargram: https://www.instagram.com/uwelllou/
     description: ""
 
