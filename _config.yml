@@ -1,4 +1,3 @@
-encoding: 'UTF-8'
 # Site
 name: "Uwelllou"
 title: "Uwelllou"
@@ -94,3 +93,4 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+encoding: 'UTF-8'
