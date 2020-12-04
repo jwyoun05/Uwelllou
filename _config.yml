@@ -5,7 +5,7 @@ description: "Wellcome to my blog!"
 logo: 'U.png'
 favicon: 'U.png'
 baseurl: 
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-1FJ57TRTLJ'
 disqus: 'demowebsite'
 mailchimp-list: ''
 include: ["_pages"]
