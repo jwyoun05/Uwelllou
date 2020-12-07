@@ -40,8 +40,8 @@ hidden: true
 ## Drone Prices
 
 | Drone Model Name | DJI Mavic Pro | DJI Mavic Mini2 | DJI Spark | Syma x8 | Syma x5 | Jy018 | Unsan Zino Pro |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Price | $1,357 | $664 | $803 | $110 | $46 | $64 | $461 |
+| ---------------- | ------------- | --------------- | --------- | ------- | ------- | ----- | -------------- |
+| Price            | $1,357        | $664            | $803      | $110    | $46     | $64   | $461           |
 
 ## Things I Think Are Important When I Buy Drones
 Lastly, I will tell you what I felt while buying various drones and what I should consider important. First of all, as you know when you read this article, you have to buy it considering flight distance, flight time, and camera quality. This is my personal opinion, but I think flying distance is the most important, and I think it is important in order of camera quality and flight time. However, keep this in mind. These three things are all important. Rather than just trust my personal thoughts, I hope you will listen to the opinions of various experts and buy the right drones.
