@@ -38,6 +38,7 @@ hidden: true
 
 
 ## Drone Prices
+
 | Drone Model Name | DJI Mavic Pro | DJI Mavic Mini2 | DJI Spark | Syma x8 | Syma x5 | Jy018 | Unsan Zino Pro |
 | ---------------- | ------------- | --------------- | --------- | ------- | ------- | ----- | -------------- |
 | Price            | $1,357        | $664            | $803      | $110    | $46     | $64   | $461           |
