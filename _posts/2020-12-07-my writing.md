@@ -3,6 +3,7 @@ layout: post
 title:  "How to Choose a Drone from My Experience"
 author: Uwelllou
 categories: [ My writings ]
+image: assets/image/uwelllou.png
 featured: true
 hidden: true
 ---
