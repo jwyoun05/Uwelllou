@@ -30,6 +30,29 @@ title: Home
 
 {% endif %}
 
+<!-- stories
+================================================== -->
+<section class="stories-posts">
+    <div class="section-title">
+        <h2><span>All Stories</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.stories == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
@@ -40,13 +63,10 @@ title: Home
 
     </div>
 
-    <div class="row listrecent">
+    <div class="row">
 
-    {% for post in paginator.posts %}
-
-        {% if post.recent == true %}
-
-            {% include postbox.html %}
+        {% for post in paginator.posts %}
+        {% include postbox.html %}
 
         {% endfor %}
 
