@@ -1,17 +1,32 @@
 ---
 layout: post
-title:  "lighthouse1"
+title:  "How to Choose a Drone from My Experience"
 author: Uwelllou
-categories: [ Drone photo, scenery, structure ]
-tags: [sea]
-image: assets/image/lighthouse1.jpg
-description: "The photo is taken in Korea!"
-stories: true
+categories: [ My writings ]
+featured: true
 hidden: true
-rating: 5
 ---
+####Once I start writing, there's something I want to say. Never trust 100% of what I say and buy a drone. I recommend you to buy a drone after looking up several articles.
 
+##List
+ List of drones I've used
+ The feeling I've had about the drones I've used
+ drone price
+ Things I think are important when I buy drones
 
+##List of drones I've used
+ DJI
+  DJI Mavic Pro
+  DJI Mavic Mini2
+  DJI Spark
+
+ Syma
+  Syma x5
+  Syma x8
+
+ Jy018 
+
+ Unsan Zino Pro
 
 
 
