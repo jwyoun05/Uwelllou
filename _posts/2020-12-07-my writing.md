@@ -6,7 +6,7 @@ categories: [ Drone photo, scenery, structure ]
 tags: [sea]
 image: assets/image/lighthouse1.jpg
 description: "The photo is taken in Korea!"
-recent: true
+stories: true
 hidden: true
 rating: 5
 ---
