@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p> Hello, everyone. This blog was created to share my drone pictures with you. Please look at my pictures and evaluate them. I hope many of you visit!  (Don't )</p>
+<p> Hello, everyone. This blog was created to share my drone pictures with you. Please look at my pictures and evaluate them. I hope many of you visit!</p>
 
 <p class="mb-5"><img class="shadow-lg" src="assets/image/drone1.jpg" alt="octagonal pavilion_Uwelllou" /></p>
 
