@@ -1,5 +1,6 @@
 {
   "ExpandedNodes": [
+    "",
     "\\assets",
     "\\assets\\css",
     "\\assets\\fonts",
@@ -10,5 +11,6 @@
     "\\_posts",
     "\\_sass"
   ],
+  "SelectedNode": "\\_layouts\\post.html",
   "PreviewInSolutionExplorer": false
 }
